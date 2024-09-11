@@ -1,0 +1,4 @@
+Overfitting leads to a limited understanding of training data.
+Questions about the responsibility of developers and creators of the AI model
+Results are based on the pattern established by machine learning algorithms
+Lack of transparency and predictability

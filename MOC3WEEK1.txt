@@ -1,0 +1,7 @@
+Digital exclusion
+Transparency
+Continuously Oversee AI model behavior and provide issue reporting and resolution mechanisms.
+Inability to generate new knowledge beyond training data
+Introduction of inaccuracies and biases
+Creating forged identity documents for fraudulent purposes
+Nonsensical or irrelevant code generation

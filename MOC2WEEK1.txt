@@ -1,0 +1,4 @@
+Customer operations
+Prompt engineer
+Fine-tuning existing foundation models for downstream tasks
+Train the LLM using privacy-preserving algorithms
